@@ -1,0 +1,3 @@
+*__pycache__
+analysis/__pycache__
+analysis/__pycache__/generate_graph.cpython-310.pyc analysis/__pycache__/process_data.cpython-310.pyc analysis/__pycache__/total_load_over_time.cpython-310.pyc
