@@ -56,7 +56,7 @@ for i in range(len(y_vals)):
 
 plt.plot(x_vals, y_vals, "ro")
 plt.plot(x_vals, y_avg, "b-")
-plt.title(f"server usage over time ({running_avg_window_size})")
+plt.title(f"server usage over time")
 plt.xlabel("time")
 plt.ylabel("number of active logins")
 plt.show()
